@@ -4,7 +4,7 @@ Comming soon..
 
 **Email:** dangnguyendota@gmail.com
 
-_BaseURL_: http://localhost:9702
+_BaseURL_: http://localhost:9703
 
 Document cho API TongIts Bot Service.
 
