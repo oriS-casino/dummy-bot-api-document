@@ -6,7 +6,7 @@ Comming soon..
 
 _BaseURL_: http://localhost:9703
 
-Document cho API TongIts Bot Service.
+Document cho API Dummy Bot Service.
 
 **Các tính năng chính:**
 - Chịu tải lớn, nhanh, độ trễ thấp, có thể chạy đồng thời hàng nghìn con bot.
