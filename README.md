@@ -2,8 +2,6 @@
 
 **Contact Me:** https://t.me/DontBeSad_Cuz_MinhFatIsHere
 
-**Email:** dangnguyendota@gmail.com
-
 _BaseURL_: http://localhost:9704
 
 Document cho API Dummy Bot Service.
