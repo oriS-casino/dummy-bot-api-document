@@ -2,6 +2,18 @@
 
 **Contact Me:** https://t.me/DontBeSad_Cuz_MinhFatIsHere
 
+## Lưu ý 
+
+Liên hệ để mua mã nguồn. Đây là bộ server xử lý logic bot dùng cho phía nhà cái muốn có bot để tiếp user.
+
+**Đầu vào là toàn bộ trạng thái của trò chơi, các lá bài của mọi người, lá bài dưới nọc và đầu ra là lựa chọn tối ưu nhất.**
+
+**Vì thế nên đây sẽ là Bot nhìn bài, tuy nhiên sẽ đánh giống 1 người bình thường và có thể điều chỉnh trình độ từ cơ bản tới cao thủ trên từng lượt đánh  và đôi khi có những sáng tạo để tạo ra đột biến trong ván chơi.**
+
+**Bot hỗ trợ nhiều phương thức để điều chỉnh độ mạnh yếu giúp vận hành tiền hồ cho nhà cái**
+
+## Cấu trúc
+
 _BaseURL_: http://localhost:9704
 
 Document cho API Dummy Bot Service.
